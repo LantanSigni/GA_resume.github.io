@@ -1,0 +1,207 @@
+* {
+    padding: 0;
+    margin: 0;
+    box-sizing: 0;
+}
+
+/* all page */
+body {
+    background-color: #e4e4e4;
+    padding: 20px;
+    font-family: Montserrat;
+    }   
+
+/* content container */
+.wrapper {
+    background-color: #ffffff;
+    display: flex;
+    box-shadow: 5px 9px 40px rgba(0, 0, 0, 0.15);
+}
+
+/* sidebar content */
+.sidebar {
+    background-color: #1e2939;
+    width: 370px;
+    padding-top: 40px;
+    padding-bottom: 40px;
+}
+
+.myphoto {
+    width: 370px;
+}
+
+.contacts {
+    margin-top: 60px;
+    margin-left: 40px;
+    margin-right: 40px;
+}
+
+.contactstitle {
+    color: white;
+    font-size: 22px;
+    font-weight: 700;
+    line-height: 24px;
+    margin-bottom: 10px;
+}
+
+.contactsCE {
+    color: white;
+    font-size: 14px;
+    font-weight: 700;
+    line-height: 24px;
+}
+
+.contactslist {
+    margin-left: 10px;
+    color: #8e949c;
+    font-size: 14px;
+    font-weight: 400;
+    line-height: 24px;
+}
+
+.ts {
+    margin-top: 20px;
+    margin-left: 40px;
+    margin-right: 40px;
+}
+
+.tstitle {
+    color: white;
+    font-size: 22px;
+    font-weight: 700;
+    line-height: 24px;
+    margin-bottom: 10px;
+}
+
+.tsulist {
+    margin-left: 10px;
+    color: #ff6b08; 
+}
+
+.tslistt {
+    color: #fff;
+    font-size: 14px;
+    font-weight: 400;
+    line-height: 24px;   
+}
+
+.ss {
+    margin-top: 20px;
+    margin-left: 40px;
+    margin-right: 40px;
+}
+
+.sstitle {
+    color: white;
+    font-size: 22px;
+    font-weight: 700;
+    line-height: 24px;
+    margin-bottom: 10px;
+}
+
+.ssulist {
+    margin-left: 10px;
+    color: #ff6b08; 
+}
+
+.sslistt {
+    color: #fff;
+    font-size: 14px;
+    font-weight: 400;
+    line-height: 24px;   
+}
+
+/* about me container */
+.aboutme {
+    padding-left: 60px;
+    padding-right: 90px;
+    padding-top: 100px;
+    padding-bottom: 100px;
+}
+
+.amwtitle {
+    margin-bottom: 20px;
+    font-size: 14px;
+}
+
+.amname {
+    margin-bottom: 40px;
+    font-size: 45px;
+    font-weight: 700;
+    line-height: 24px;
+}
+
+.amaboutt {
+    font-size: 14px;
+    font-weight: 400;
+    line-height: 24px; 
+}
+
+.amprojlist {
+    margin-top: 10px;
+    margin-left: 20px;
+    margin-bottom: 10px;
+    margin-right: 20px;
+    font-weight: 400;
+    line-height: 24px; 
+    font-size: 18px;
+}
+
+.amtitle {
+    margin-top: 40px;
+    margin-bottom: 40px;
+    font-size: 24px;
+    font-weight: 700;
+    line-height: 24px;
+}
+
+.amtitle1 {
+    margin-top: 20px;
+    margin-bottom: 20px;
+    font-size: 20px;
+    font-weight: 700;
+    line-height: 24px;
+}
+
+.amtitle2 {
+    margin-top: 10px;
+    margin-bottom: 10px;
+    font-size: 16px;
+    font-weight: 700;
+    line-height: 24px;
+}
+
+.amtitle3 {
+    margin-top: 10px;
+    margin-bottom: 10px;
+    color: #a8a8a8;
+    font-size: 14px;
+    font-weight: 400;
+    line-height: 24px;
+}
+
+.amlists {
+    margin-top: 10px;
+    margin-left: 20px;
+    margin-bottom: 10px;
+    margin-right: 20px;
+    font-size: 14px;
+    font-weight: 400;
+    line-height: 24px; 
+}
+
+.orange {
+    color: #ff6b08;
+}
+
+.tboldb {
+    font-weight: 700;
+}
+
+.tbold {
+    font-weight: 700;
+}
+
+.tnorm {
+    font-weight: 400;
+}
